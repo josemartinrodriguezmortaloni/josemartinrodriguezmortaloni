@@ -1,6 +1,6 @@
 ![Copia de BytesBricks](https://github.com/JoseMRodriguezM/JoseMRodriguezM/assets/76118394/f2f9c938-1275-440e-98bc-846ef5583ef4)
 
-<h3 align="center">An AI Engineer from Argentina</h3>
+<h3 align="center">An AI Developer from Argentina</h3>
 
 
 # 💫 About Me:
