@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m studying Information Systems Engineering<br>👯 I’m looking to be a gratest AI/ ML Engineer<br>🌱 I’m currently learning Tensorflow and other deep learning technologies
+🔭 I’m studying Information Systems Engineering<br>👯 I’m looking to AI Agency<br>🌱 I’m currently working in my AI Agency
 
 - 📫 How to reach me **jmrodriguezm13@gmail.com**
 
