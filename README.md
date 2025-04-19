@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jmrodriguezm13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hj4BDxXbJ6x9mHmpnroFvTKSUI6DtJbU/view?usp=drive_link](https://drive.google.com/file/d/1hj4BDxXbJ6x9mHmpnroFvTKSUI6DtJbU/view?usp=drive_link)
+- 📄 Know about my experiences [https://josemartin.vercel.app/](https://josemartin.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
