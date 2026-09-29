@@ -9,24 +9,22 @@
   ╚═╝     ╚═╝     ╚═╝╚══════╝ ╚═╝   ╚═╝        ╚═╝
 
   ░▒▓ AI Developer · Intelligent Agents · Mendoza, AR ▓▒░
-</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2EA043&vCenter=true&width=520&lines=%3E+initializing+agents...;%3E+loading+models...;%3E+building+my+AI+agency_" alt="booting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2EA043&vCenter=true&height=22&width=520&lines=%3E+initializing+agents...;%3E+loading+models...;%3E+building+my+AI+agency_" height="22" alt="booting">
 
-<pre>
 <b>m4s1t4@arch</b>:~$ neofetch
 
-     ┌┴┬┴┬┴┬┴┐       <b>jose@m4s1t4</b>
-    ─┤       ├─      ───────────
-    ─┤  A.I  ├─      name    José Martín Rodriguez Mortaloni
-    ─┤       ├─      role    AI Developer · Agents · ML · Automation
-     └┬┴┬┴┬┴┬┘       study   Information Systems Engineering @ UTN FRM
-                     os      Arch Linux (Omarchy) + Hyprland
-                     shell   zsh · Neovim · Ghostty
-                     langs   Python · TypeScript · Java
-                     ai/ml   PyTorch · TensorFlow · scikit-learn · OpenCV
-                     web     React · NestJS · Django · Flask · Tailwind
-                     data    PostgreSQL · MySQL · pandas
+<img align="left" src="assets/donut.svg" width="220" alt="spinning ASCII donut">   <b>jose@m4s1t4</b>
+   ───────────
+   name    José Martín Rodriguez Mortaloni
+   role    AI Developer · Agents · ML · Automation
+   study   Information Systems Engineering @ UTN FRM
+   os      Arch Linux (Omarchy) + Hyprland
+   shell   zsh · Neovim · Ghostty
+   langs   Python · TypeScript · Java
+   ai/ml   PyTorch · TensorFlow · scikit-learn · OpenCV
+   web     React · NestJS · Django · Flask · Tailwind
+   data    PostgreSQL · MySQL · pandas
 
 <b>m4s1t4@arch</b>:~$ tree ~/projects
 
