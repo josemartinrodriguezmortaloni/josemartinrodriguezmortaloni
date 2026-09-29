@@ -3,6 +3,7 @@
 
 <img align="left" src="assets/donut.svg" width="326" height="332" alt="spinning ASCII donut">
 
+
   <b>jose@m4s1t4</b>
   ───────────
   name    José Martín Rodriguez Mortaloni
@@ -14,6 +15,8 @@
   ai/ml   PyTorch · TensorFlow · sklearn · OpenCV
   web     React · NestJS · Django · Flask · Tailwind
   data    PostgreSQL · MySQL · pandas
+
+
 
 
 
