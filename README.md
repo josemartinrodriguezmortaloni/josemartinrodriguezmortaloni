@@ -1,16 +1,4 @@
-<pre>
-<b>m4s1t4@arch</b>:~$ figlet m4s1t4
 
-  ███╗   ███╗██╗  ██╗███████╗ ██╗████████╗██╗  ██╗
-  ████╗ ████║██║  ██║██╔════╝███║╚══██╔══╝██║  ██║
-  ██╔████╔██║███████║███████╗╚██║   ██║   ███████║
-  ██║╚██╔╝██║╚════██║╚════██║ ██║   ██║   ╚════██║
-  ██║ ╚═╝ ██║     ██║███████║ ██║   ██║        ██║
-  ╚═╝     ╚═╝     ╚═╝╚══════╝ ╚═╝   ╚═╝        ╚═╝
-
-  ░▒▓ AI Developer · Intelligent Agents · Mendoza, AR ▓▒░
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2EA043&vCenter=true&height=22&width=520&lines=%3E+initializing+agents...;%3E+loading+models...;%3E+building+my+AI+agency_" height="22" alt="booting">
 
 <b>m4s1t4@arch</b>:~$ neofetch
 
@@ -44,3 +32,4 @@
 
 <b>m4s1t4@arch</b>:~$ █
 </pre>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2EA043&vCenter=true&height=22&width=520&lines=%3E+initializing+agents...;%3E+loading+models...;%3E+building+my+AI+agency_" height="22" alt="booting">
