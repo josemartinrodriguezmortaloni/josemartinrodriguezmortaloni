@@ -1,5 +1,4 @@
-
-
+<pre>
 <b>m4s1t4@arch</b>:~$ neofetch
 
 <img align="left" src="assets/donut.svg" width="220" alt="spinning ASCII donut">   <b>jose@m4s1t4</b>
