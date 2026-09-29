@@ -17,14 +17,15 @@ THETA_STEPS, PHI_STEPS = 90, 314
 TILT_A, TILT_B = 1.0, 0.5
 CELL_ASPECT = 2.0
 
-COLS, ROWS = 34, 17
-FRAMES = 90
+COLS, ROWS = 40, 20
+FRAMES = 72
 # 2 vueltas de pitch por 1 de yaw: la misma proporción que SPIN_A / SPIN_B
 # (0.045 / 0.023) y un ciclo que cierra sin salto.
 SPIN_A, SPIN_B = 2 * tau / FRAMES, tau / FRAMES
-FRAME_SECONDS = 0.06
+FRAME_SECONDS = 0.075
 
-FONT_SIZE = 12
+# Mismo tamaño que el texto de <pre> en GitHub (85% de 16px).
+FONT_SIZE = 13.6
 CHAR_W, LINE_H = FONT_SIZE * 0.6, FONT_SIZE * 1.2
 OUT = Path(__file__).resolve().parent.parent / "assets" / "donut.svg"
 
