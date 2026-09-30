@@ -11,9 +11,9 @@
   study   Information Systems Engineering @ UTN FRM
   os      Arch Linux (Omarchy) + Hyprland
   shell   zsh · Neovim · Ghostty
-  langs   Python · TypeScript · Java
+  langs   Python · TypeScript · Java · Rust
   ai/ml   PyTorch · TensorFlow · sklearn · OpenCV
-  web     React · NestJS · Django · Flask · Tailwind
+  web     React · NestJS · Django · FastAPI · Tailwind
   data    PostgreSQL · MySQL · pandas
 
 
