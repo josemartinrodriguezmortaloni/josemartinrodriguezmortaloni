@@ -7,19 +7,19 @@
   <b>jose@m4s1t4</b>
   ───────────
   name    José Martín Rodriguez Mortaloni
-  role    AI Developer · Agents · ML · Automation
+  role    AI Engineer · Full Stack Engineer
+  work    Full Stack Engineer @ SIELC
+          AI Engineer @ JRC SoftCoding Solutions
   study   Information Systems Engineering @ UTN FRM
   os      Arch Linux (Omarchy) + Hyprland
   shell   zsh · Neovim · Ghostty
   langs   Python · TypeScript · Java · Rust
   ai/ml   PyTorch · TensorFlow · sklearn · OpenCV
-  web     React · NestJS · Django · FastAPI · Tailwind
+  agents  LangChain · RAG · ChromaDB · Ollama
+  rl      SAC · Gymnasium · ONNX
+  web     React · Next.js · TanStack · Tailwind
+  api     NestJS · FastAPI · Django · TypeORM
   data    PostgreSQL · MySQL · pandas
-
-
-
-
-
 
 
 
