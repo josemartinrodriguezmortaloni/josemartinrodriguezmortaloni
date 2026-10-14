@@ -9,7 +9,6 @@
   name    José Martín Rodriguez Mortaloni
   role    AI Engineer · Full Stack Engineer
   work    Full Stack Engineer @ SIELC
-          AI Engineer @ JRC SoftCoding Solutions
   study   Information Systems Engineering @ UTN FRM
   os      Arch Linux (Omarchy) + Hyprland
   shell   zsh · Neovim · Ghostty
@@ -20,6 +19,7 @@
   web     React · Next.js · TanStack · Tailwind
   api     NestJS · FastAPI · Django · TypeORM
   data    PostgreSQL · MySQL · pandas
+
 
 
 
